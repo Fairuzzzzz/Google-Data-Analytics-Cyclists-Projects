@@ -1,5 +1,5 @@
 </p>  
-  <h2 align="center">=Google Data Analytics Cyclists Projects/h2>
+  <h2 align="center">Google Data Analytics Cyclists Projects
 </div>
 
 # Introduction
